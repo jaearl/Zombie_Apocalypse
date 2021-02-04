@@ -1,0 +1,20 @@
+Graphic locations:
+
+backgrounds:
+https://www.freepik.com/free-photo/zombie-hand-halloween-theme-concept_1235533.htm
+https://br.freepik.com/fotos-gratis/zombie-hand-conceito-do-tema-do-dia-das-bruxas_1235534.htm
+https://www.freepik.es/fotos-vectores-gratis/cruel
+https://dgomag.com/articles/1262
+
+
+zombies:
+https://leagueoflosers.wordpress.com/2012/10/31/its-halloween/
+https://www.pinterest.com/pin/530158187359988939/
+https://www.pinterest.com/pin/208291551493038891/
+
+player:
+https://www.raywenderlich.com/14865/introduction-to-pixel-art-for-games
+
+
+projectile:
+https://steamcommunity.com/sharedfiles/filedetails/?id=362420430

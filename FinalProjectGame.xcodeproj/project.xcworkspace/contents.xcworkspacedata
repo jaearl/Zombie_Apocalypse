@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/jaredearl/Documents/School/cs4530/FinalProjectGame/FinalProjectGame/background3.png">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/jaredearl/Documents/School/cs4530/FinalProjectGame/FinalProjectGame/background4.png">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/jaredearl/Documents/School/cs4530/FinalProjectGame/FinalProjectGame/player.png">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
